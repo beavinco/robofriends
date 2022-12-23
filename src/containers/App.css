@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-weight: 400;
+    color:azure;
+}
+
+h2 {
+    font-family: 'Press Start 2P', cursive;
+    font-weight: 200;
+    font-size: 1em;
+    color:black;
+}
+
+h4 {
+    font-weight: 200;
+    font-size: 0.7em;
+}
