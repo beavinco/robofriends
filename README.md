@@ -1,3 +1,7 @@
+# About
+
+This is the result of a guided project that's part of the ZTM Academy Web Developer Course.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
